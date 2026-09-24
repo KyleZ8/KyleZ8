@@ -2,7 +2,7 @@
 
 **Data Analyst — SQL · Python · Experimentation · Risk & Customer Analytics**
 
-MS in Business Analytics, University of Minnesota. I build analyses that end in a decision: validate the data, measure what actually changed, and say what to do about it. Open to Data Analyst roles in fintech, technology, and retail.
+MS in Business Analytics, University of Minnesota. I build analyses that end in a decision: validate the data, measure what actually changed, and say what to do about it. Open to Data Analyst roles across industries, with project experience in fintech, technology, and retail.
 
 ## Projects
 
@@ -18,7 +18,9 @@ MS in Business Analytics, University of Minnesota. I build analyses that end in 
 ## Tools
 
 **Languages:** SQL · Python · R
-**Analytics:** A/B testing · causal inference · segmentation · cohort & retention analysis · forecasting · classification · explainability & fairness auditing
-**Stack:** pandas · DuckDB · scikit-learn · XGBoost · statsmodels · SHAP · Streamlit · Plotly · Tableau · Git · GitHub Actions · pytest
 
-📫 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · your.email@example.com
+**Analytics:** A/B testing · causal inference · segmentation · cohort & retention analysis · forecasting · classification · explainability & fairness auditing
+
+**Stack:** pandas · DuckDB · scikit-learn · XGBoost · statsmodels · SHAP · Streamlit · Plotly · Git · GitHub Actions · pytest
+
+📫 [LinkedIn](https://www.linkedin.com/in/kyle-zhu8/) · kyle2601701@gmail.com
