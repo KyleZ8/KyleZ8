@@ -2,8 +2,8 @@
 
 **Data Analyst — SQL · Python · Experimentation · Decision Analytics**
 
-🎓 MS in Business Analytics, Carlson School of Management, University of Minnesota
-📍 Minneapolis, Minnesota · Open to Data Analyst roles in any industry
+MS in Business Analytics, Carlson School of Management, University of Minnesota
+Minneapolis, Minnesota · Open to Data Analyst roles in any industry
 
 I turn messy data into decisions. Most analyses stop at a chart; I try to finish the sentence — what changed, why, what it's worth, and what we should do about it.
 
@@ -13,7 +13,7 @@ What I enjoy most is the part before the model: finding out that a spike was dup
 
 ---
 
-## 📊 Featured projects
+## Featured projects
 
 | Project | Question it answers | Result |
 |---|---|---|
@@ -28,9 +28,10 @@ Each repo runs from a clean clone, has automated tests and continuous integratio
 
 ---
 
-## 💼 Experience
+## Experience
 
-### Data Analytics Consultant — Carlson Analytics Lab · Oct 2025 – Aug 2026
+### Data Analytics Consultant — Carlson Analytics Lab 
+*Oct 2025 – Aug 2026*
 **C.H. Robinson** (Fortune 500 logistics) 
 - Built a KNN matching model estimating relationship health for the 54% of accounts that never respond to the customer survey, extending churn early-warning coverage to all 22K active accounts.
 - Designed a two-axis prioritization matrix combining revenue-weighted growth and comment sentiment, flagging ~$6B of current revenue as satisfied-but-shrinking for retention outreach.
@@ -47,7 +48,7 @@ Each repo runs from a clean clone, has automated tests and continuous integratio
 - Presented an interactive Tableau dashboard with county-level competitor mapping, letting the bidding team price against each rival's historical behavior before committing estimating resources.
 
 ### Research Assistant, Pharmaceuticals — Kaiyuan Securities
-*Shenzhen, China · Jun–Sep 2024*
+*Jun–Sep 2024*
 - Extracted company financials through the Wind API and consolidated three vendor sources into 12 analysis-ready tables covering 100+ manufacturers, building the comparative valuation base for a new coverage segment.
 - Built top-down market-sizing models under multiple growth scenarios, producing the revenue forecasts behind the firm's first two published reports on the segment.
 
