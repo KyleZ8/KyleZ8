@@ -30,30 +30,35 @@ Each repo runs from a clean clone, has automated tests and continuous integratio
 
 ## Experience
 
-### Data Analytics Consultant — Carlson Analytics Lab 
-*Oct 2025 – Aug 2026*
-**C.H. Robinson** (Fortune 500 logistics) 
+### Data Analytics Consultant — Carlson Analytics Lab
+
+*Oct 2025 – Aug 2026*<br>
+**C.H. Robinson** (Fortune 500 logistics)
 - Built a KNN matching model estimating relationship health for the 54% of accounts that never respond to the customer survey, extending churn early-warning coverage to all 22K active accounts.
 - Designed a two-axis prioritization matrix combining revenue-weighted growth and comment sentiment, flagging ~$6B of current revenue as satisfied-but-shrinking for retention outreach.
 - Delivered a SQL-to-Python pipeline and dashboard giving VPs and marketing and operations stakeholders a standing retention-priority view; served as Scrum Master and Product Owner for a 5-person team.
 
-**4Mativ** (school-transportation technology) 
+*Oct 2025 – Aug 2026*<br>
+**4Mativ** (school-transportation technology)
 - Engineered a GPS data-quality layer over 2.35M pings and 10,800 trips, scoring connection health with per-route Isolation Forest models and isolating a device fault affecting 19% of one provider's trips against under 2% elsewhere.
 - Surfaced 1,191 detour and 248 wrong-route trips with DBSCAN corridor modeling, concentrating 64% of service failures in 3 of 16 vendors.
 - Built a vendor reliability matrix pairing GPS health against operational execution, separating fleets with broken tracking from fleets with real service failures so each got the right fix.
 
-**Central Specialties** (Midwest infrastructure) 
+*Oct 2025 – Aug 2026*<br>
+**Central Specialties** (Midwest infrastructure)
 - Constructed the bid-level dataset behind a competitive-intelligence engagement — 2,736 bids, 629 projects, 419 rival firms — and defined 5 competitor KPIs across market presence, win share, success rate, pricing aggression, and winning margin.
 - Sized $15.6M of margin left on won projects and modeled a 3% price reduction that would raise win rate 43% across $223M of near-miss contract value.
 - Presented an interactive Tableau dashboard with county-level competitor mapping, letting the bidding team price against each rival's historical behavior before committing estimating resources.
 
 ### Research Assistant, Pharmaceuticals — Kaiyuan Securities
-*Jun–Sep 2024*
+
+*Jun–Sep 2024*<br>
 - Extracted company financials through the Wind API and consolidated three vendor sources into 12 analysis-ready tables covering 100+ manufacturers, building the comparative valuation base for a new coverage segment.
 - Built top-down market-sizing models under multiple growth scenarios, producing the revenue forecasts behind the firm's first two published reports on the segment.
 
 ### Compliance Analyst — Agricultural Bank of China
-*Jun–Sep 2023*
+
+*Jun–Sep 2023*<br>
 - Screened 200+ employee financial-disclosure and account records against internal compliance rules, reconciling data across systems to identify undisclosed holdings and conflicts of interest.
 - Coordinated across retail banking, compliance, and corporate relationship teams to onboard payroll accounts for 5 enterprise clients and 300+ employees, performing KYC verification for fraud and account-misuse risk.
 
@@ -61,8 +66,8 @@ Each repo runs from a clean clone, has automated tests and continuous integratio
 
 ## 🛠️ Tools
 
-**Languages:** SQL · Python · R
-**Analysis:** A/B testing · causal inference (DiD, propensity matching) · segmentation & RFM · cohort and retention analysis · classification · lift and ROI analysis · anomaly detection · model explainability and fairness auditing
+**Languages:** SQL · Python · R<br>
+**Analysis:** A/B testing · causal inference (DiD, propensity matching) · segmentation & RFM · cohort and retention analysis · classification · lift and ROI analysis · anomaly detection · model explainability and fairness auditing<br>
 **Stack:** pandas · DuckDB · scikit-learn · XGBoost · statsmodels · Tableau · Streamlit · Plotly · Git · GitHub Actions · pytest
 
 ---
